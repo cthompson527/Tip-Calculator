@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
     </dependencies>
     <scenes>
-        <!--tips-->
+        <!--Tip Calculator-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="tips" customModuleProvider="target" sceneMemberID="viewController">
@@ -81,7 +81,7 @@
                             <outletCollection property="gestureRecognizers" destination="kzn-Dw-1FA" appends="YES" id="OnO-QB-ovO"/>
                         </connections>
                     </view>
-                    <navigationItem key="navigationItem" title="tips" id="Iqd-Lb-ciw">
+                    <navigationItem key="navigationItem" title="Tip Calculator" id="Iqd-Lb-ciw">
                         <barButtonItem key="rightBarButtonItem" title="Settings" id="fSc-Uh-TLi">
                             <connections>
                                 <segue destination="BRd-4B-YvD" kind="push" id="BLT-bM-7k4"/>
